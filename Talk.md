@@ -219,12 +219,13 @@ I mentioned about wanting to get into speaking, to which he said...
 
 ---
 
-# Act 1: Recap
+# Act 1: Learn Recap
 
 ^
 Speak to people.
-Enjoy it.
+Listen to people.
 Learn.
+Enjoy it.
 
 ---
 
@@ -391,3 +392,12 @@ Even more so that they knew people who'd like to give a talk
 ![100%](Assets/jenkinsx2018.jpg)
 
 ---
+
+# Act 2: Share Recap
+
+^
+
+---
+
+# Act 3: Repeat
+
