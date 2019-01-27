@@ -123,33 +123,60 @@ I wanted to find more people like I met in Oslo.
 I started to attend local meetups.
 Looked around Cardiff, then went to Bristol.
 Going to London for after work and back the same night.
+I also booked some conferences.
 
 ---
 
-# ProgNet
+![100%](Assets/ProgNet2017.jpg)
 
 ^
-Dylan Beattie recommended this confernce in London.
-And I saw some great talks
+Dylan Beattie recommended ProgNet.
+
+---
+
+![100%](Assets/BenHall2017.jpg)
+
+^
+Met a chap called Ben Hall who introduced me to Katacoda.
+At the end of ProgNet, I booked tickets for ProgNet 2018, which gave me a free ticket too...
 
 ---
 
 # CloudNativeLondon
 
 ^
-I got a free ticket to go to this one day conference.
-I was completely lost, in a stack I didn't know.
+This was the first Cloud Native London one day conference.
+
+---
+
+![100%](Assets/SamNewman2017.jpg)
+
+^
+Sam Newman was there helping me understand what Cloud Native is anyway.
+
+---
+
+![100%](Assets/BriceFernandes2017.jpg)
+
+^
 There was a talk by Brice Fernandes from WeaveWorks.
-Said how they deleted all their infrastrucute in 1 click and brought it back up in 45mins.
-They've now reduced this to a couple of minutes.
+Said how they deleted all their infrastructure in 1 click and brought it back up in 45 minutes.
+I liked the idea of this Cloud Native.
 
 ---
 
 # Luck
 
 ^
-Won tickets to attend a 3 day Kubernetes workshop.
+There was a prize draw and I won a ticket to attend a 3 day Kubernetes workshop.
+
+---
+
+![100%](Assets/DanielePolencic2017.jpg)
+
+^
 Met Daniele Polencic.
+I started to learn about K8S.
 
 ---
 
@@ -176,5 +203,108 @@ I wanted to help others like they helped me.
 # NDC London 2018
 
 ^
-So I booked the NDC London.
+So I booked NDC London.
+My plan was not to just learn tech, but learn how to speak at meetups.
+
+---
+
+![100%](Assets/BenHallNDCLondon2018.jpg)
+
+^
 Went to a workshop with Ben Hall on Kubernetes.
+I attended his workshop for 2 days.
+
+---
+
+# Cloud Native Wales
+
+^
+We went for a couple of pints after the workshop.
+I mentioned about wanting to get into speaking, to which he said...
+" There's no Cloud Native Wales"
+
+---
+
+# Act 1: Recap
+
+^
+Speak to people.
+Enjoy it.
+Learn.
+
+---
+
+# Act 2: Share
+
+^
+We've now setup CloudNativeWales, but where do we start?
+
+---
+
+![100%](Assets/AlexEllis2018.jpg)
+
+^
+Alex Ellis and Scott Hanselman gave a talk about Kubernetes on Raspberry Pis
+I loved the simplicity of it showing  how it runs using lights on the pis.
+
+---
+
+![100%](Assets/Steve2018.jpg)
+
+^
+Later that day, I got a message from a local recruiter.
+I met him at a workshop in Cardiff asking if I'd run a K8S workshop.
+I got this during a talk by Todd from TrackJS about getting into speaking.
+I replied "I'm in".
+
+---
+
+![100%](Assets/AlexisRichardson2018.jpg)
+
+^
+I also saw a talk by Alexis Richardson about GitOps at NDC London.
+I was all in on Cloud Native, and now I needed to prep to give our first workshop.
+
+---
+
+![100%](Assets/PiClusterBriefcase.jpg)
+
+^
+The next month, we built the Pi Cluster and practised our workshop.
+Ben offered us help by letting us use Katacoda at the workshop.
+This was great as it was one less thing for us to worry about.
+
+---
+
+![100%](Assets/OurFirstTalk2018.jpg)
+
+^
+We arranged to give a practice talk in our office a week before the workshop.
+This helped us get over our initial nerves of speaking.
+
+---
+
+![100%](Assets/OurFirstWorkshop2018.jpg)
+
+^
+So this was our first workshop.
+It went really well and we asked people for their feedback.
+
+---
+
+![100%](Assets/OurFirstWorkshop2018Feedback.jpg)
+
+^
+It went better than we could have ever expected.
+We now knew that people were interested in Cloud Native technologies.
+We just had to arrange a meetup...
+
+---
+
+# 3 things you need to run a Meetup
+
+1) Venue
+2) Speaker(s)
+3) Attendee(s)
+
+---
