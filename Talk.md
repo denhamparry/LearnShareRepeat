@@ -105,12 +105,6 @@ He gave the keynote, which blew me away and made me remember why I love being a 
 ^
 This is how I felt.
 I also took my family with me because I want to share the experiences I get with them.
-
----
-
-# Back to Earth
-
-^
 After spending the weekend we flew back home to Cardiff.
 I knew there was more to my 9-5 life.
 I wanted to find more people like I met in Oslo.
@@ -288,7 +282,7 @@ This helped us get over our initial nerves of speaking.
 
 ^
 So this was our first workshop.
-It went really well and we asked people for their feedback.
+It thought it went well and we asked people for their feedback.
 
 ---
 
@@ -297,7 +291,22 @@ It went really well and we asked people for their feedback.
 ^
 It went better than we could have ever expected.
 We now knew that people were interested in Cloud Native technologies.
-We just had to arrange a meetup...
+Before anything else, we were off to KubeCon!
+
+---
+
+![100%](Assets/KubeCon2018.jpg)
+
+^
+So KubeCon was big.
+And guess who was giving a keynote there.
+
+---
+
+![100%](Assets/AlexisRichardsonKubeCon2018.jpg)
+
+^
+Alexis was on the main stage, with everyone in the room.
 
 ---
 
@@ -306,5 +315,79 @@ We just had to arrange a meetup...
 1) Venue
 2) Speaker(s)
 3) Attendee(s)
+
+---
+
+# Venue
+
+^
+We were looking to book a place and got quotes fot £150 for 30 people.
+This was a risk but then luck and helped out...
+
+---
+
+![100%](Assets/DevOpsGuys2018.jpg)
+
+^
+We went to a talk by one of the founders of the DevOpsGroup.
+They have an office in one of the tallest buildings in Cardiff.
+We mentioned Cloud Native Wales, and he offered their help.
+He introduced me to their Head of Recruitment.
+I knew him from when we were 16 pushing trolleys in a supermarket car park.
+
+---
+
+![100%](Assets/DevOpsGuysOffice2018.jpg)
+
+^
+We found our venue and it was free.
+
+---
+
+# Speakers Part I
+
+^
+Next problem, speakers.
+Who would want to speak at a meetup when we didn't know if anyone would turn up?
+
+---
+
+# Word of Mouth
+
+^
+Looking at local dev slack groups, we found someone from near Cardiff giving talks in Bristol.
+We asked if he'd be interested and within a couple of minutes, his response was yes.
+
+---
+
+# Attendee(s)
+
+^
+For this we used Meetup.
+We had to pay for it but it allowed us to advertise to people already attending local meetups.
+
+---
+
+# Speakers Part II
+
+^
+When we announced our first meetup, we were amazed to find people saying that they'd attend.
+Even more so that they knew people who'd like to give a talk
+
+---
+
+# Our first meetup
+
+---
+
+![100%](Assets/ourfirstmeetup.jpg)
+
+---
+
+![100%](Assets/mockingbird2018.jpg)
+
+---
+
+![100%](Assets/jenkinsx2018.jpg)
 
 ---
