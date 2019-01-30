@@ -262,6 +262,30 @@ I attended his workshop for 2 days.
 
 ---
 
+![100%](Assets/Pub2018_00.jpg)
+
+^
+Went to a workshop with Ben Hall on Kubernetes.
+I attended his workshop for 2 days.
+
+---
+
+![100%](Assets/Pub2019_00.jpg)
+
+^
+Went to a workshop with Ben Hall on Kubernetes.
+I attended his workshop for 2 days.
+
+---
+
+![100%](Assets/Pub2019_01.jpg)
+
+^
+Went to a workshop with Ben Hall on Kubernetes.
+I attended his workshop for 2 days.
+
+---
+
 # Cloud Native Wales
 
 ^
@@ -317,6 +341,12 @@ Keep it simple.
 Just go for it.
 Who here wants to get into speaking?
 Who in here wants to be on a stage at NDC?
+
+---
+
+![100%](Assets/NDC2019.jpg)
+
+^
 I have a talk tomorrow and I need some people to help me out.
 Come talk to me, message me.
 
