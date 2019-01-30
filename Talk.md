@@ -649,14 +649,14 @@ I now work with Daniele running workshops.
 
 ---
 
-![100%](Assets/Talk2019.jpg)
+![100%](Assets/Talk2019.png)
 
 ^
 Tomorrow 3-4 room 2.
 
 ---
 
-![100%](Assets/PubConf.jpg)
+![100%](Assets/PubConf.png)
 
 ^
 Shaun of the Dev
