@@ -321,6 +321,14 @@ Learn a little, make notes
 
 ---
 
+![100%](Assets/LaptopStickerLaurie.jpg)
+
+^
+This is my Son's favourite sticker.
+Keeps me calm when presenting.
+
+---
+
 # Drop the ladder
 
 ^
@@ -477,7 +485,7 @@ Matt
 ![100%](Assets/jenkinsx2018.jpg)
 
 ^
-Matt
+James
 
 ---
 
@@ -554,6 +562,20 @@ People love stickers / tshirts.
 
 ---
 
+# Conferences
+
+^
+Ask for tickets and discount codes.
+
+---
+
+# Big Corp
+
+^
+Speak to companies and ask for support.
+
+---
+
 # Book Clubs
 
 ^
@@ -602,11 +624,36 @@ Meeting new people
 
 ---
 
+# Where are the stickers?
+
+^
+So where are they?
+
+---
+
+![100%](Assets/StickersNow.jpg)
+
+^
+They're under my laptop.
+
+---
+
+![100%](Assets/LearnK8S.jpg)
+
+^
+I now work with Daniele running workshops.
+
+---
+
+# More shameless self promotion
+
+---
+
 # Just be you
 
 ^
 You are the most interesting person with great stories.
-Don't be afraid to share them and take opporunities.
+Don't be afraid to share them and take opportunities.
 Do what your good at
 
 ---
