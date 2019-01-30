@@ -10,18 +10,9 @@ Thank you for having me here today.
 
 ^
 Some of my favourite speakers highlight issues within the industry.
-I suffer from depression, but I manage it day by day.
+I suffer from depression.
 I find talking to others fixes things for me.
-If you're feeling overwhelmed or ever need to have a chat, drop me a messasge.
-
----
-
-# TAKE PHOTOS!
-
-^
-Feel free to take any photos.
-I usually do this at conferences to remind me of a talk.
-With 6 tracks and 3 days, its going to be a long, but great conference!
+Conferences can be overwhelming, if you ever need someone to talk to give me a shout.
 
 ---
 
@@ -43,8 +34,6 @@ This is our community that I'll be talking about today.
 
 ---
 
-![100%](Assets/cnw_fullcolour.png)
-
 ## @cloudnativewal
 
 ^
@@ -54,6 +43,68 @@ This is our community that I'll be talking about today.
 ---
 
 # Act 1: Learn
+
+---
+
+# Tips
+
+^
+These are the things I remind myself at each meetup / conference.
+
+---
+
+# Take photos!
+
+^
+Feel free to take any photos.
+I usually do this at conferences to remind me of a talk.
+With 6 tracks and 3 days, its going to be a long, but great conference!
+Look back and remember
+
+---
+
+# It's ok not to know what people are talking about
+
+^
+I have to remind myself about this every time I listen to a talk.
+Here to learn.
+It'll take time, but it does click.
+Usually when you're all relaxed and about to go to sleep.
+
+---
+
+# Stickers
+
+^
+If you learn something, get the sticker.
+This was my laptop
+
+---
+
+![100%](Assets/Stickers.jpg)
+
+^
+Its so much easier to see the things you don't know.
+This helped remind me of want I had learned.
+This was my laptop but it filled up.
+Stickers will pop up throughout this talk.
+
+---
+
+# Talk / Listen
+
+^
+There are so many people here.
+I love hearing peoples stories and finding common interests.
+Treat others as you'd like to be treated.
+Kelsey Hightower tip: be minty fresh.
+
+---
+
+# Case Study: Me
+
+^
+I'm a fan of demos and hearing actual stories.
 
 ---
 
@@ -103,11 +154,20 @@ He gave the keynote, which blew me away and made me remember why I love being a 
 ![100%](Assets/SightseeingOslo2017.jpg)
 
 ^
+🚂🚃🚃
 This is how I felt.
 I also took my family with me because I want to share the experiences I get with them.
 After spending the weekend we flew back home to Cardiff.
+
+---
+
+![100%](Assets/SightseeingOslo2017.jpg)
+
+^
+🚂🚃
 I knew there was more to my 9-5 life.
 I wanted to find more people like I met in Oslo.
+Laurie loved stickers by the way.
 
 ---
 
@@ -150,15 +210,6 @@ Sam Newman was there helping me understand what Cloud Native is anyway.
 
 ---
 
-![100%](Assets/BriceFernandes2017.jpg)
-
-^
-There was a talk by Brice Fernandes from WeaveWorks.
-Said how they deleted all their infrastructure in 1 click and brought it back up in 45 minutes.
-I liked the idea of this Cloud Native.
-
----
-
 # Luck
 
 ^
@@ -169,7 +220,7 @@ There was a prize draw and I won a ticket to attend a 3 day Kubernetes workshop.
 ![100%](Assets/DanielePolencic2017.jpg)
 
 ^
-Met Daniele Polencic.
+Met Daniele.
 I started to learn about K8S.
 
 ---
@@ -182,6 +233,7 @@ I was listening to people talk about how they solved problems.
 I made new friends who I could talk tech too.
 It made me want to solve problems again.
 Found out that I have a medical condition that causes depression.
+Thyroid - hidden dependency.
 
 ---
 
@@ -222,14 +274,68 @@ I mentioned about wanting to get into speaking, to which he said...
 # Act 1: Learn Recap
 
 ^
-Speak to people.
-Listen to people.
-Learn.
+You're learning, if you knew it already it'd be boring anyway.
+Photos.
+Talk and listen to people, not just the speakers.
 Enjoy it.
 
 ---
 
 # Act 2: Share
+
+---
+
+# Tips
+
+^
+Some quick tips
+
+---
+
+# Commit to a talk
+
+^
+If you want to get into talking...
+You don't need to know it now.
+Plan a talk in 3 months time.
+Learn a little, make notes
+
+---
+
+# Drop the ladder
+
+^
+Share what you wish you knew from Day 1.
+Its easier to focus on the harder, edge case scenarios.
+Keep it simple.
+
+---
+
+# Take opportunities
+
+^
+Just go for it.
+Who here wants to get into speaking?
+Who in here wants to be on a stage at NDC?
+I have a talk tomorrow and I need some people to help me out.
+Come talk to me, message me.
+
+---
+
+# Its not just about speaking!
+
+^
+There are so many ways to share.
+Run meetups / help meetups / attend meetups.
+Write blogs
+Contribute to open source.
+Don't have to be able to do them all.
+Do what you're good at.
+I was good at house parties growing up.
+
+---
+
+# Case Study: CNW
 
 ^
 We've now setup CloudNativeWales, but where do we start?
@@ -251,14 +357,6 @@ Later that day, I got a message from a local recruiter.
 I met him at a workshop in Cardiff asking if I'd run a K8S workshop.
 I got this during a talk by Todd from TrackJS about getting into speaking.
 I replied "I'm in".
-
----
-
-![100%](Assets/AlexisRichardson2018.jpg)
-
-^
-I also saw a talk by Alexis Richardson about GitOps at NDC London.
-I was all in on Cloud Native, and now I needed to prep to give our first workshop.
 
 ---
 
@@ -292,34 +390,14 @@ It thought it went well and we asked people for their feedback.
 ^
 It went better than we could have ever expected.
 We now knew that people were interested in Cloud Native technologies.
-Before anything else, we were off to KubeCon!
-
----
-
-![100%](Assets/KubeCon2018.jpg)
-
-^
-So KubeCon was big.
-And guess who was giving a keynote there.
-
----
-
-![100%](Assets/AlexisRichardsonKubeCon2018.jpg)
-
-^
-Alexis was on the main stage, with everyone in the room.
 
 ---
 
 # 3 things you need to run a Meetup
 
-1) Venue
-2) Speaker(s)
-3) Attendee(s)
-
 ---
 
-# Venue
+# 1. Venue
 
 ^
 We were looking to book a place and got quotes fot £150 for 30 people.
@@ -345,59 +423,96 @@ We found our venue and it was free.
 
 ---
 
-# Speakers Part I
+# 2. Speakers
 
 ^
-Next problem, speakers.
-Who would want to speak at a meetup when we didn't know if anyone would turn up?
+Just ask people.
+You might find out they have family or another reason to be in your city.
+Look at other simular meetups for speakers.
+Reach out - Email, Twitter, Slack
 
 ---
 
-# Word of Mouth
+# 3. Attendees
 
 ^
-Looking at local dev slack groups, we found someone from near Cardiff giving talks in Bristol.
-We asked if he'd be interested and within a couple of minutes, his response was yes.
+Word of mouth.
+Meetup.com / Twitter.
+Go to other meetups.
 
 ---
-
-# Attendee(s)
-
-^
-For this we used Meetup.
-We had to pay for it but it allowed us to advertise to people already attending local meetups.
-
----
-
-# Speakers Part II
-
-^
-When we announced our first meetup, we were amazed to find people saying that they'd attend.
-Even more so that they knew people who'd like to give a talk
-
----
-
-# Our first meetup
-
----
-
-![100%](Assets/ourfirstmeetup.jpg)
-
----
-
-![100%](Assets/mockingbird2018.jpg)
-
----
-
-![100%](Assets/jenkinsx2018.jpg)
-
----
-
 # Act 2: Share Recap
 
 ^
+You don't have to code to contribute.
+Offer help.
+Keep things simple.
+Take opportunities.
 
 ---
 
 # Act 3: Repeat
 
+---
+
+# Build a community
+
+^
+Its not about one person.
+Think of it like our infrastructure.
+Look at your dependencies.
+
+---
+
+# Build an inclusive community
+
+^
+Code of conduct.
+Drinks - not just alcohol!
+Food - vegetarians / vegans / gluten free.
+
+---
+
+# Create a safe space
+
+^
+Its important that we're diverse.
+Again, treat others as you'd like to be treated.
+Don't be scared to ask questions or help.
+Create a feedback loop where people are comfortable.
+
+---
+
+# Promote local speakers
+
+^
+Offer lightning talks
+Introduce them to other speakers for tips.
+
+---
+
+# Swag
+
+^
+Share swag.
+People love stickers / tshirts.
+
+---
+
+# Book Clubs
+
+^
+Pick a book.
+Create a space for people to discuss.
+Contact the author.
+Setup a video call.
+
+---
+
+# Tech Amnesty 
+
+^
+Create local initiatives.
+We donate gaming consoles to l
+
+---
