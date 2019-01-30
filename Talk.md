@@ -514,6 +514,10 @@ Take opportunities.
 
 ---
 
+# Not everyone can go to conferences so bring them home
+
+---
+
 # Act 3: Repeat
 
 ---
