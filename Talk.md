@@ -265,17 +265,14 @@ I attended his workshop for 2 days.
 ![100%](Assets/Pub2018_00.jpg)
 
 ^
-Went to a workshop with Ben Hall on Kubernetes.
-I attended his workshop for 2 days.
+We went for a couple of pints after the workshop.
+I mentioned about wanting to get into speaking, to which he said...
 
 ---
 
-# Cloud Native Wales
+# There's no Cloud Native Wales
 
-^
-We went for a couple of pints after the workshop.
-I mentioned about wanting to get into speaking, to which he said...
-" There's no Cloud Native Wales"
+## Ben Hall - 2018
 
 ---
 
@@ -405,11 +402,20 @@ This helped us get over our initial nerves of speaking.
 
 ---
 
+![100%](Assets/ProgNet2018.jpg)
+
+^
+Ended up running the workshop at ProgNet 2018
+Room of 100
+Up and running on AKS / Kubernentes.
+
+---
+
 ![100%](Assets/OurFirstWorkshop2018.jpg)
 
 ^
 So this was our first workshop.
-It thought it went well and we asked people for their feedback.
+I thought it went well and we asked people for their feedback.
 
 ---
 
@@ -456,8 +462,22 @@ We found our venue and it was free.
 ^
 Just ask people.
 You might find out they have family or another reason to be in your city.
-Look at other simular meetups for speakers.
+Look at other similar meetups for speakers.
 Reach out - Email, Twitter, Slack
+
+---
+
+![100%](Assets/mockingbird2018.jpg)
+
+^
+Matt
+
+---
+
+![100%](Assets/jenkinsx2018.jpg)
+
+^
+Matt
 
 ---
 
@@ -469,6 +489,13 @@ Meetup.com / Twitter.
 Go to other meetups.
 
 ---
+
+![100%](Assets/CNW_01.jpg)
+
+^ People turned up
+
+---
+
 # Act 2: Share Recap
 
 ^
@@ -545,6 +572,32 @@ We donate gaming consoles to childrens hospital wards.
 
 ---
 
+# Case study: Repeat
+
+---
+
+![100%](Assets/CNW_02.jpg)
+
+^
+Ben and Barbara
+
+---
+
+![100%](Assets/CNW_03.jpg)
+
+^
+Sam Newman
+
+---
+
+![100%](Assets/CNW_08.jpg)
+
+^
+Nat
+Meeting new people
+
+---
+
 # Closing Notes
 
 ---
@@ -567,6 +620,18 @@ I know I'll have people around me helping me learn.
 That lets me sleep at night.
 
 ---
+
+# Remember to say thank you
+
+---
+
+![100%](Assets/Team.jpg)
+
+^
+Thanks Aled and Salman
+
+---
+
 
 # Thanks
 
