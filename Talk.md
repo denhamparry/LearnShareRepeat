@@ -477,9 +477,9 @@ Food - vegetarians / vegans / gluten free.
 
 ^
 Its important that we're diverse.
-Again, treat others as you'd like to be treated.
+Treat others as you'd like to be treated.
 Don't be scared to ask questions or help.
-Create a feedback loop where people are comfortable.
+Create a feedback loop.
 
 ---
 
@@ -513,6 +513,37 @@ Setup a video call.
 
 ^
 Create local initiatives.
-We donate gaming consoles to l
+We donate gaming consoles to childrens hospital wards.
+
+---
+
+# Closing Notes
+
+---
+
+# Just be you
+
+^
+You are the most interesting person with great stories.
+Don't be afraid to share them and take opporunities.
+Do what your good at
+
+---
+
+# Community is our future
+
+^
+The constant that we have is that technology is changing.
+Whats next, serverless, quantum computing...
+I know I'll have people around me helping me learn.
+That lets me sleep at night.
+
+---
+
+# Thanks
+
+## @denhamparry
+
+## @cloudnativewal
 
 ---
