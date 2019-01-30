@@ -270,28 +270,26 @@ I attended his workshop for 2 days.
 
 ---
 
-![100%](Assets/Pub2019_00.jpg)
-
-^
-Went to a workshop with Ben Hall on Kubernetes.
-I attended his workshop for 2 days.
-
----
-
-![100%](Assets/Pub2019_01.jpg)
-
-^
-Went to a workshop with Ben Hall on Kubernetes.
-I attended his workshop for 2 days.
-
----
-
 # Cloud Native Wales
 
 ^
 We went for a couple of pints after the workshop.
 I mentioned about wanting to get into speaking, to which he said...
 " There's no Cloud Native Wales"
+
+---
+
+![100%](Assets/Pub2019_00.jpg)
+
+^
+Just went back to the pub
+
+---
+
+![100%](Assets/Pub2019_01.jpg)
+
+^
+Until we get a blue plaque a post it note will do...
 
 ---
 
